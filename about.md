@@ -3,6 +3,6 @@ layout: about
 title: About
 ---
 
-## About
+## Cybersecurity student.
 
-Hi, nice to meet you.
+Building an e-portfolio for study evidence repository.
